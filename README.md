@@ -12,9 +12,9 @@
 </a>
 
 <br/>
-
-<a href="https://www.linkedin.com/in/douglasmena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:douglaslopezmena2024@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/douglasl.m/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/douglasmena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:douglaslopezmena2024@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=douglaspapu&label=Visitas&color=38bdf8&style=for-the-badge" />
 
 <br/><br/>
