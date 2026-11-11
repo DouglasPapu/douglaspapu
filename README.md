@@ -52,10 +52,7 @@ Trabajo con metodologías ágiles (**Scrum**) y me gusta escribir código claro,
 <img src="https://skillicons.dev/icons?i=postgres&perline=5" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
 
 ### 🤖 IA, Agentes & Automatización
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/Codex-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-10a37f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBvbHlsaW5lIHBvaW50cz0iOCA2IDIgMTIgOCAxOCIvPjxwb2x5bGluZSBwb2ludHM9IjE2IDYgMjIgMTIgMTYgMTgiLz48L3N2Zz4%3D" /> <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=azure,aws,docker&perline=5" />
