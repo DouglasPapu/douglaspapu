@@ -55,6 +55,8 @@ Trabajo con metodologías ágiles (**Scrum**) y me gusta escribir código claro,
 
 ## 📊 Nivel de dominio
 
+<div align="center">
+
 | Área | Tecnología | Nivel | |
 |:--|:--|:--|:--|
 | **Backend** | C# | `▰▰▰▰▰▰▰▰▰▱` | Avanzado |
@@ -71,6 +73,8 @@ Trabajo con metodologías ágiles (**Scrum**) y me gusta escribir código claro,
 | | AWS | `▰▰▰▱▱▱▱▱▱▱` | Básico |
 | **Trabajo en equipo** | Git · Jira · Scrum | `▰▰▰▰▰▰▰▰▱▱` | Avanzado |
 
+</div>
+
 <br/>
 
 ## 🌱 Aprendiendo ahora
@@ -85,8 +89,8 @@ Trabajo con metodologías ágiles (**Scrum**) y me gusta escribir código claro,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=douglaspapu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaspapu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
+<img height="170" src="https://forkstatsgit.vercel.app/api?username=douglaspapu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&include_all_commits=true" />
+<img height="170" src="https://forkstatsgit.vercel.app/api/top-langs/?username=douglaspapu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
 
 <br/>
 
