@@ -7,14 +7,13 @@
 **Full Stack Developer · .NET & C#**
 
 <a href="https://github.com/douglaspapu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+with+.NET+%26+C%23+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+Vue;Learning+Flutter+%26+React+Native+%F0%9F%93%B1;Building+clean+and+scalable+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+with+.NET+%26+C%23+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+Vue;Building+with+AI+agents+%26+MCP+%F0%9F%A4%96;Automation+with+n8n+%26+Docker+%F0%9F%90%B3;Learning+Flutter+%26+React+Native+%F0%9F%93%B1;Building+clean+and+scalable+software" alt="Typing SVG" />
 </a>
 
 <br/>
-
 <a href="https://www.instagram.com/douglasl.m/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/douglasmena"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:douglaslopezmena2024@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/douglasmena" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:douglaslopezmena2024@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=douglaspapu&label=Views&color=38bdf8&style=for-the-badge" />
 
 <br/><br/>
@@ -29,6 +28,8 @@
 
 **Full Stack** developer focused on **backend with .NET and C#**, with experience in **Spring Boot**, user interfaces with **React and Vue**, and currently exploring **mobile development**.
 I work with agile methodologies (**Scrum**) and enjoy writing clear, maintainable and scalable code.
+
+🤖 I bring **AI agents** (Claude, Codex, MCP) and **n8n automations** into my development workflow to ship faster and with better quality.
 
 > 🎯 *Goal: keep growing as a full stack developer and build products that solve real problems.*
 
@@ -50,8 +51,17 @@ I work with agile methodologies (**Scrum**) and enjoy writing clear, maintainabl
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres&perline=5" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48" />
 
-### Cloud & Tools
-<img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode,visualstudio&perline=6" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" />
+### 🤖 AI, Agents & Automation
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Codex-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=azure,aws,docker&perline=5" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=6" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" />
 
 </div>
 
@@ -73,7 +83,11 @@ I work with agile methodologies (**Scrum**) and enjoy writing clear, maintainabl
 | | React Native | `▰▰▱▱▱▱▱▱▱▱` | Learning 🌱 |
 | **Data** | SQL Server | `▰▰▰▰▰▰▰▰▱▱` | Advanced |
 | | PostgreSQL | `▰▰▰▰▰▰▰▱▱▱` | Upper-intermediate |
-| **Cloud** | Azure | `▰▰▰▰▱▱▱▱▱▱` | Basic |
+| **AI & Agents** | Agent-assisted development (Claude, Codex) | `▰▰▰▰▰▰▰▱▱▱` | Upper-intermediate |
+| | MCP | `▰▰▰▰▰▱▱▱▱▱` | Intermediate |
+| **Automation** | n8n | `▰▰▰▰▰▰▱▱▱▱` | Intermediate |
+| **Cloud & DevOps** | Docker | `▰▰▰▰▰▰▱▱▱▱` | Intermediate |
+| | Azure | `▰▰▰▰▱▱▱▱▱▱` | Basic |
 | | AWS | `▰▰▰▱▱▱▱▱▱▱` | Basic |
 | **Teamwork** | Git · Jira · Scrum | `▰▰▰▰▰▰▰▰▱▱` | Advanced |
 
