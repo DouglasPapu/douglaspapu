@@ -24,7 +24,7 @@
 ## 👋 Sobre mí
 
 Desarrollador **Full Stack** con foco en **backend con .NET y C#**, con experiencia en **Spring Boot**, interfaces con **React y Vue**, y actualmente explorando el **desarrollo móvil**.
-Trabajo con metodologías ágiles (**Scrum**) y me gusta escribir código claro, mantenible y bien probado.
+Trabajo con metodologías ágiles (**Scrum**) y me gusta escribir código claro, mantenible y escalable.
 
 > 🎯 *Objetivo: crecer como desarrollador full stack y construir productos que realmente resuelvan problemas.*
 
