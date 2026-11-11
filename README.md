@@ -1,6 +1,11 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=TU%20NOMBRE&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20.NET%20%26%20C%23&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" width="100%" />
+
+# Douglas López
+
+**Full Stack Developer · .NET & C#**
 
 <a href="https://github.com/douglaspapu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+con+.NET+%26+C%23+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+Vue;Aprendiendo+Flutter+%26+React+Native+%F0%9F%93%B1;Construyendo+software+limpio+y+escalable" alt="Typing SVG" />
@@ -85,7 +90,7 @@ Trabajo con metodologías ágiles (**Scrum**) y me gusta escribir código claro,
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=douglaspapu&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+<img src="https://streak-stats.demolab.com/?user=douglaspapu&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 
 </div>
 
