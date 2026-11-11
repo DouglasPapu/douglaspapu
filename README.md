@@ -17,9 +17,16 @@
 <a href="mailto:douglaslopezmena2024@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=douglaspapu&label=Visitas&color=38bdf8&style=for-the-badge" />
 
+<br/><br/>
+
+🌐 **Español** · [English](README.en.md)
+
 </div>
 
 <br/>
+
+
+
 
 ## 👋 Sobre mí
 
